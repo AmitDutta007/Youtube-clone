@@ -6,3 +6,4 @@ export { default as SearchFeed } from './SearchFeed';
 export { default as SearchBar } from './SearchBar'
 export { default as ChannelCard } from './ChannelCard';
 export { default as VideoCard } from './VideoCard';
+export { default as Videos } from './Videos';
